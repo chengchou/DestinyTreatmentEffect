@@ -1,1 +1,8 @@
-.DS_Store
+*.DS_Store
+*.swp
+droptoken.rds
+BehindScene/man.zip
+BehindScene/Manifest_content.sqlite
+.httr-oauth
+Secret/
+rsconnect/
