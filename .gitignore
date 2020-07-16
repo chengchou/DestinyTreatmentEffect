@@ -6,3 +6,6 @@ BehindScene/Manifest_content.sqlite
 .httr-oauth
 Secret/
 rsconnect/
+.Rhistory
+.RData
+.Rproj.user
